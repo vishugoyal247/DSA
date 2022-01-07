@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 class Search
 {
-    int[] arr = null ;
+    int[] arr = null;
 
     public Search(int size)
     {
@@ -37,6 +37,7 @@ public class LinearSearchUnsorted
 
         public static void main(String[] args)
         {
+
             Scanner sc = new Scanner(System.in);
             System.out.print("Enter the size of the array : ");
             int size = sc.nextInt();
