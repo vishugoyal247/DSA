@@ -56,7 +56,7 @@ class Delete
 }
 
 
-public class DeleteElementArray
+public class EfficientDeleteElementArray
 {
     public static void main(String[] args)
     {
