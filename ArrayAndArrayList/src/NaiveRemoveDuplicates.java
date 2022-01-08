@@ -52,6 +52,7 @@ class RemoveDuplicates
         for (int i = 0; i <res ; i++)
         {
             System.out.print(arr[i]+"  ");
+
         }
     }
 
