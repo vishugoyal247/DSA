@@ -12,6 +12,7 @@ class ShiftedZeroes
         Scanner sc = new Scanner(System.in);
         arr= new int[cap];
         this.n = n;
+        System.out.print("Enter the elements of the array : ");
         for (int i = 0; i < n; i++)
         {
             arr[i]=sc.nextInt();
