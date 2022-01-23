@@ -33,6 +33,6 @@ class main2
         System.out.print("Enter the number : ");
         int num = sc.nextInt();
 //        System.out.println(NumberOfDigits.numberDigits(num));   // Head Recursion calling
-        NumberOfDigits.numberDigits(num,0);   // Head Recursion calling
+        NumberOfDigits.numberDigits(num,0);   // Tail Recursion calling
     }
 }
