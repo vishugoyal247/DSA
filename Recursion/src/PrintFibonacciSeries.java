@@ -10,7 +10,7 @@ public class PrintFibonacciSeries
         fibo(n - 1, b, a + b);
     }
 }
-class main2
+class main10
 {
     public static void main(String[] args)
     {
